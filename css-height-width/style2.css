@@ -1,0 +1,5 @@
+div{
+    height: 200px;
+    background: linear-gradient(-90deg,red,yellow); width: 100%;
+    max-width: 500px;
+}
